@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Piyush and I'm a Frontend Web developer, from Surat,gujrat</p>
+<p align="left">I am Darshan and I'm a Frontend Web developer, from Surat,gujrat</p>
 
 ###
 
@@ -62,12 +62,12 @@
 ###
 
 <div align="center">
-<a href="https://github.com/Kalsariya-piyush" target="_blank">
+<!-- <a href="https://github.com/Kalsariya-piyush" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/piyush-kalsariya-104a79219" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://dribbble.com/Piyush_K" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>   -->

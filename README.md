@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalsariyadarshan&label=Profile%20views&color=0e75b6&style=flat" alt="kalsariyadarshan" /> </p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
+<h1 align="center">Hi 👋, I'm Darshan Kalsariya</h1>
 
 <p align="left">I am Darshan and I'm a Frontend Web developer, from Bengaluru, Karnataka</p>
 

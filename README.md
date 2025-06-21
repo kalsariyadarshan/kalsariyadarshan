@@ -14,7 +14,7 @@
 - 📚 I'm currently learning Backend development
 - ❓ Ask me about anything related to MERN stack and related technologies
 - 📫 How to reach me **darshankalsariya29@gmail.com**
-- 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB
+- 🔭 I’m currently working on NextJS, ReactJS, React Native, Nestjs, Firebase, MongoDB
 - ⚡ Fun fact: Writing code is the closest thing we have to magic—except the bugs are like mischievous gremlins!
 
 ###
